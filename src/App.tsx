@@ -1,8 +1,10 @@
 import {loginText, logoBox, logoText1, logoText2, logoText3, mainMenu, window} from "./App.css.ts";
 import Authorize from "./assets/announce/Authorize.mp3"
+import {setLandscape} from "./components/landscape.ts";
 
 const App = () => {
   const onClickLogin = () => {
+    setLandscape();
     new Audio(Authorize).play();
   }
   
