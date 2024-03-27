@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 23px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        font-family: CascadiaMono-Roman, 'Cascadia Mono';
+        font-size: 306.24px;
+        font-variation-settings: 'wght' 400;
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        stroke-width: 3px;
+      }
+
+      .cls-5 {
+        fill: #b3b3b3;
+      }
+
+      .cls-6 {
+        fill: #fff;
+        font-family: MeiryoUI-Italic, 'Meiryo UI';
+        font-size: 60px;
+        font-style: italic;
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="_背景" data-name="背景">
+    <rect class="cls-5" width="512" height="512"/>
+  </g>
+  <g id="PRTS">
+    <text class="cls-4" transform="translate(56.58 224.29) scale(1.11 1)"><tspan x="0" y="0">PR</tspan><tspan x="0" y="280.47">TS</tspan></text>
+    <text class="cls-6" transform="translate(130.28 244.97)"><tspan x="0" y="0">RHODES</tspan><tspan x="12.58" y="62.93">ISLAND</tspan></text>
+  </g>
+  <g id="_レイヤー_2" data-name="レイヤー 2">
+    <rect class="cls-1" x="87.71" y="87.71" width="336.58" height="336.58" transform="translate(-106.04 256) rotate(-45)"/>
+    <line class="cls-3" x1="99.75" y1="256" x2="412.25" y2="256"/>
+    <line class="cls-2" x1="256" y1="122" x2="256" y2="190"/>
+    <line class="cls-2" x1="256" y1="322" x2="256" y2="390"/>
+  </g>
+</svg>
